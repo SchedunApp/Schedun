@@ -39,6 +39,8 @@ Create a folder named **`Exports`** in the exact same directory as your `.exe` f
 * **Schedule optimalization button:** A button that at the cost of a much slower runtime, plans a schedule with the smallest possible breaks between classes.
 * **Excel download helper software:** A software that speeds up the process of downloading the excel files. Process most likely cannot be fully automated due to the risk of it being against university rules.
 * **Lunch Break:** The option to implement a 20-30 minute long lunch break between classes. ✅
+* **Installer:** A better looking installer to add(and remove) the app properly to/from the application list, not just a runnable exe on the computer somewhere. Also sets up the necessary folder structure.
+* **Better responses:** Proper, detailed explanation when Schedule planning doesn't find a working schedule.
 
 ## 🌐 Contact Information
 If you have any issues with the app, any questions or suggestions, feel free to contact me at: schedunapp@gmail.com
