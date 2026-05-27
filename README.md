@@ -23,11 +23,21 @@ The payments are still not fully developed, however this will be most likely thr
 
 ## 📋 Instructions & Setup Guide
 
-### Step 1: License Activation
+### Step 0: License Activation
 When you receive your license key, **make sure to enter it on your own primary computer**. The moment you activate it, the license binds to that specific hardware. You will not be able to use the same key on a different device later (e.g., a friend's laptop or a university computer).
 
-### Step 2: Importing Neptun Data (The "Exports" Folder)
+### Step 1: Getting Neptun Data (Using the Script)
+> [!NOTE]
+> The script has been approved by one of the ÓE Neptun admins as legal, there was also another e-mail sent to the developer team of Neptun, currently awaiting answer. If you don't feel safe about using the script, feel free to review it before using.
+#### A: Installing the script
+Install the "Schedun Export Helper" script, by copying the contents of the script.txt file(not up yet, will be when this is official), download Tampermonkey from the [Official Site](https://www.tampermonkey.net/)(you will have to enable user scripts in the extension settings to use Tampermonkey), click add new script, then select everything, and replace it with the copied script. 
+#### B: Using the script
+Enter the Neptun page of your University, once it's the official Neptun page, a small window should appear in the bottom right of your screen. To install the course info easily(list of courses for a specific subject), got to "Menu -> Subject -> Register for subject", here Search for the subjects you want "recommended to filter by "Recommended term" for faster results", click the subject to open it's dropdown menu, now the small window should display the Subject name, the number of it's courses, and the options to download the course list(for schedule planning) and the student list(for student schedule searching). The course info downloading doesn't send any requests, it parses the info from the subject you opened(if you open another subject, you can't download the previous one by closing and opening it again, you have to reload the page). As for the Student list, it sends one request per course, because of this, there is a request speed limit set, so that it doesn't look like a DOS attack downloading 10+ or 100+ files at once. It is recommended to set the download location of the browser to a specific folder temporarily if you do this in a large quantity.
+<br><img src="src/script.png" alt="Script Screenshot" width="400">
+
+### Step 2: Importing Neptun Data (In the "Exports" Folder)
 To use any of the core functions (Teacher Search, Student Search, Schedule Planner), you need to place your exported Excel files from Neptun into the correct folders. Downloading these files are to be done by the users themselves, however I'm working on a method to make this process easier.
+
 
 Create a folder named **`Exports`** in the exact same directory as your `.exe` file, and set up the following folder structure:
 
