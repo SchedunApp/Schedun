@@ -8,7 +8,13 @@ The official repository for the Schedun app. Downloading it is free, using it is
 *   **Safety:** The application is **100% safe and virus-free**. The file has been thoroughly scanned with **Kaspersky**, and no threats were found. You can safely add an exclusion/exception for the app in Windows Defender, or just simply choose no action taken when prompted. All files used by this project can be obtained legally.
 
 ## 💵 Pricing
-The software costs 2.500 HUF for a semester, which is less than a 1.000 HUF a month. The semester for this software starts at the beginning of one exam period, and ends at the start of the next one, regardless of buying date.
+The software costs 2.500 HUF for a semester, which is less than a 500 HUF a month. The semester for this software starts at the beginning of one exam period, and ends at the start of the next one, regardless of buying date.
+
+## 💳 Payment
+The payments are still not fully developed, however this will be most likely through Revolut, with necessary fields in the comments, such as:
+- Name
+- University e-mail address(necessary, I can only provide this for specific universities, this might expand further later on if there is demand)
+- University(ÓE/ELTE/BME, only available for these three, as I am only able to look into these universities)
 
 ## 🛠️ Functions
 * **Schedule planning:** The main and best function of this software is that it can create many separate schedules based on the subjects you pick, you can filter based on specific courses only(recommended, since many courses are only for specific students, like exam courses). You can also select the amount of days you want to attend, the start and finishing time of every day and the number of variations created.
@@ -34,13 +40,15 @@ Create a folder named **`Exports`** in the exact same directory as your `.exe` f
      ┗ 📂 Schedule  <-- Excel files for Schedule planning
 ```
 
-## 🎯 Future plans
-* **Phone version for the Search app:** An iPhone version is currently under development, it's close to being presentable.
-* **Schedule optimalization button:** A button that at the cost of a much slower runtime, plans a schedule with the smallest possible breaks between classes.
-* **Excel download helper software:** A software that speeds up the process of downloading the excel files. Process most likely cannot be fully automated due to the risk of it being against university rules.
+## 🎯 Future plans, ideas
+* **Phone version for the Search app:** An iPhone version is currently under development, it's close to being presentable. Too many issues arose with Android so far, not gonna be developed there in the near future.
+* **Schedule optimalization button:** A button that at the cost of a much slower runtime, plans a schedule with the smallest possible breaks between classes. ✅
+* **Excel download helper software:** A software that speeds up the process of downloading the excel files. Process most likely cannot be fully automated due to the risk of it being against university rules. ✅
 * **Lunch Break:** The option to implement a 20-30 minute long lunch break between classes. ✅
-* **Installer:** A better looking installer to add(and remove) the app properly to/from the application list, not just a runnable exe on the computer somewhere. Also sets up the necessary folder structure.
-* **Better responses:** Proper, detailed explanation when Schedule planning doesn't find a working schedule.
+* **Installer:** A better looking installer to add(and remove) the app properly to/from the application list, not just a runnable exe on the computer somewhere. Also sets up the necessary folder structure. **For now this function is not in focus, as everything works just fine without this too.**
+* **Better responses:** Proper, detailed explanation when Schedule planning doesn't find a working schedule. ✅
+* **Favorited:** A function to add specific names to the favorites, able to access their schedules fast. **This function is still not fully planned out.**
+* **External University Friends:** Might add on demand, allows users to add the schedules of their friends from other universities specificly. **This function is still not fully planned out.**
 
 ## 🌐 Contact Information
 If you have any issues with the app, any questions or suggestions, feel free to contact me at: schedunapp@gmail.com
