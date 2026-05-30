@@ -1,11 +1,10 @@
 # Schedun
 The official repository for the Schedun app. Downloading it is free, using it is paid
 
-## ⚠️ Important Disclaimer
-
-*   **Antivirus False Positive:** If you are using Windows Defender, it might flag the `.exe` file as **Trojan:BadJoke**, as reported by testers. Other antiviruses don't seem to do the same.
-*   **Why is this happening?** The application code is heavily encrypted to protect intellectual property and does not have an expensive official digital signature. Since Windows cannot "look inside" the encrypted file, it takes the safest route and flags it.
-*   **Safety:** The application is **100% safe and virus-free**. The file has been thoroughly scanned with **Kaspersky**, and no threats were found. You can safely add an exclusion/exception for the app in Windows Defender, or just simply choose no action taken when prompted. All files used by this project can be obtained legally.
+## 🛠️ Functions
+* **Schedule planning:** The main and best function of this software is that it can create many separate schedules based on the subjects you pick, you can filter based on specific courses only(recommended, since many courses are only for specific students, like exam courses). You can also select the amount of days you want to attend, the start and finishing time of every day and the number of variations created.
+* **Teacher/Student Search:** This function allows the user to search for other students in the university, and see their schedule. This only works if the student list excel files are downloaded for each course that the other student is in. Recommended usage is downloading all courses for the necessary classes in the semester. These need to be downloaded one by one for each course under the classes. Working on a method to speed this process up.
+<br><img src="src/search.png" alt="Search Function Screenshot" width="400"> <img src="src/schedule.png" alt="Schedule Function Screenshot" width="400">
 
 ## 💵 Pricing
 The software costs 2.500 HUF for a semester, which is less than a 500 HUF a month. The semester for this software starts at the beginning of one exam period, and ends at the start of the next one, regardless of buying date.
@@ -15,11 +14,6 @@ The payments are still not fully developed, however this will be most likely thr
 - Name
 - University e-mail address(necessary, I can only provide this for specific universities, this might expand further later on if there is demand)
 - University(ÓE/ELTE/BME, only available for these three, as I am only able to look into these universities)
-
-## 🛠️ Functions
-* **Schedule planning:** The main and best function of this software is that it can create many separate schedules based on the subjects you pick, you can filter based on specific courses only(recommended, since many courses are only for specific students, like exam courses). You can also select the amount of days you want to attend, the start and finishing time of every day and the number of variations created.
-* **Teacher/Student Search:** This function allows the user to search for other students in the university, and see their schedule. This only works if the student list excel files are downloaded for each course that the other student is in. Recommended usage is downloading all courses for the necessary classes in the semester. These need to be downloaded one by one for each course under the classes. Working on a method to speed this process up.
-<br><img src="src/search.png" alt="Search Function Screenshot" width="400"> <img src="src/schedule.png" alt="Schedule Function Screenshot" width="400">
 
 ## 📋 Instructions & Setup Guide
 
