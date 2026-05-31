@@ -14,7 +14,7 @@ There are no free trials, demos or such. It took a lot of time, and it costs mon
 The payments are still not fully developed, however this will be most likely through Revolut, with necessary fields in the comments, such as:
 - Name
 - University e-mail address(necessary, I can only provide this for specific universities, this might expand further later on if there is demand, you will get your license to your mail)
-- University(ÓE/ELTE/BME, only available for these three, as I am only able to look into these universities)
+- University(BME/ELTE/ÓE, only available for these three, as I am only able to look into these universities)
 
 ## 📋 Instructions & Setup Guide
 
