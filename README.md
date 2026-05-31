@@ -2,17 +2,18 @@
 The official repository for the Schedun app. Downloading it is free, using it is paid
 
 ## 🛠️ Functions
-* **Schedule planning:** The main and best function of this software is that it can create many separate schedules based on the subjects you pick, you can filter based on specific courses only(recommended, since many courses are only for specific students, like exam courses). You can also select the amount of days you want to attend, the start and finishing time of every day and the number of variations created.
+* **Schedule planning:** The main and best function of this software is that it can create many separate schedules based on the subjects you pick, you can filter based on specific courses only(recommended, since many courses are only for specific students, like exam courses). You can also select the maximum amount of days you want to attend, the start and finishing time of every day, the number of results, you can add lunch break and set the search to find the most optimal schedule.
 * **Teacher/Student Search:** This function allows the user to search for other students in the university, and see their schedule. This only works if the student list excel files are downloaded for each course that the other student is in. Recommended usage is downloading all courses for the necessary classes in the semester. These need to be downloaded one by one for each course under the classes. Working on a method to speed this process up.
 <br><img src="src/search.png" alt="Search Function Screenshot" width="400"> <img src="src/schedule.png" alt="Schedule Function Screenshot" width="400">
 
 ## 💵 Pricing
 The software costs 2.500 HUF for a semester, which is less than a 500 HUF a month. The semester for this software starts at the beginning of one exam period, and ends at the start of the next one, regardless of buying date.
+There are no free trials, demos or such. It took a lot of time, and it costs money to maintain, so we cannot afford releasing any of the features for free.
 
 ## 💳 Payment
 The payments are still not fully developed, however this will be most likely through Revolut, with necessary fields in the comments, such as:
 - Name
-- University e-mail address(necessary, I can only provide this for specific universities, this might expand further later on if there is demand)
+- University e-mail address(necessary, I can only provide this for specific universities, this might expand further later on if there is demand, you will get your license to your mail)
 - University(ÓE/ELTE/BME, only available for these three, as I am only able to look into these universities)
 
 ## 📋 Instructions & Setup Guide
@@ -55,4 +56,4 @@ Create a folder named **`Exports`** in the exact same directory as your `.exe` f
 * **External University Friends:** Might add on demand, allows users to add the schedules of their friends from other universities specificly. **This function is still not fully planned out.**
 
 ## 🌐 Contact Information
-If you have any issues with the app, any questions or suggestions, feel free to contact me at: schedunapp@gmail.com
+If you have any issues with the app, any questions or suggestions, feel free to contact us at: schedunapp@gmail.com
