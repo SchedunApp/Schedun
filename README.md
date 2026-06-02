@@ -10,7 +10,7 @@ Until: 2026-12-14
 <br><img src="src/search.png" alt="Search Function Screenshot" width="400"> <img src="src/schedule.png" alt="Schedule Function Screenshot" width="400">
 
 ## 💵 Pricing
-The license key for the software costs 2.500 HUF for a semester, which is less than a 500 HUF a month. The semester for this software starts at the beginning of one exam period, and ends at the start of the next one, regardless of buying date. [CHECK SEMESTER](https://github.com/SchedunApp/Schedun/edit/main/README.md#-semester) <br>
+The license key for the software costs 2.500 HUF(VAT 27% not included) for a semester, which is less than a 500 HUF a month. The semester for this software starts at the beginning of one exam period, and ends at the start of the next one, regardless of buying date. [CHECK SEMESTER](https://github.com/SchedunApp/Schedun#-semester)<br>
 There are no free trials, demos or such. It took a lot of time, and it costs money to maintain, so we cannot afford releasing any of the features for free.
 
 ## 💳 Payment
