@@ -81,7 +81,7 @@ Right side(advanced filters):
     - Compact: Might result in classes from morning until night, all day long
     - Balanced: Tries to avoid too many classes in a single day, spreads them evenly across multiple days(make sure to limit your maximum days)
 
-## 🎯 Future plans, ideas(none of these ideas are guaranteed to be implemented
+## 🎯 Future plans, ideas(none of these ideas are guaranteed to be implemented)
 * **Phone version for the Search app:** An iPhone version is currently under development, it's close to being presentable. Too many issues arose with Android so far, not gonna be developed there in the near future.
 * **Schedule optimalization button:** A button that at the cost of a much slower runtime, plans a schedule with the smallest possible breaks between classes. ✅
 * **Excel download helper software:** A software that speeds up the process of downloading the excel files. Process most likely cannot be fully automated due to the risk of it being against university rules. ✅
