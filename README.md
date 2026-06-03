@@ -14,28 +14,33 @@ The license key for the software costs 2.500 HUF(VAT 27% not included) for a sem
 There are no free trials, demos or such. It took a lot of time, and it costs money to maintain, so we cannot afford releasing any of the features for free.
 
 ## 💳 Payment
-The payments are still not fully developed, however this will be most likely through Revolut, with necessary fields in the comments, such as:
+The payments are done through Stripe, the following fields are required and processed:
 - Name
-- University e-mail address(necessary, I can only provide this for specific universities, this might expand further later on if there is demand, you will get your license to your mail)
+- University e-mail address(necessary, I can only provide this for specific universities(@edu.bme.hu, @info.elte.hu, @student.elte.hu, @stud.uni-obuda.hu), this might expand further later on if there is demand, you will get your license to your university mail)
 - University(BME/ELTE/ÓE, only available for these three for now, as I am only able to look into these universities)
 Payments will be manually processed for now, so there might be some time between the customer buying the license, and our team processing it. 
+
+[**Payment link**](https://buy.stripe.com/00w14h80Y6i32ikbr25Rm00)
 
 ## 📖 Setup Guide
 
 ### Step 0: License Activation
 When you receive your license key, **make sure to enter it on your own primary computer**. The moment you activate it, the license binds to that specific hardware. You will not be able to use the same key on a different device later (e.g., a friend's laptop or a university computer).
 
-### Step 1: Getting Neptun Data (Using the Script)
+### Step 0.5: Script
 > [!NOTE]
-> The script has been approved by one of the ÓE Neptun admins as legal, there was also another e-mail sent to the developer team of Neptun, currently awaiting answer. If you don't feel safe about using the script, feel free to review it before using.
-#### A: Installing the script
-Install the "Schedun Export Helper" script, by copying the contents of the script.txt file(not up yet, will be when this is official), download Tampermonkey from the [Official Site](https://www.tampermonkey.net/)(you will have to enable user scripts in the extension settings to use Tampermonkey), click add new script, then select everything, and replace it with the copied script. 
-#### B: Using the script
-Enter the Neptun page of your University, once it's the official Neptun page, a small window should appear in the bottom right of your screen. To install the course info easily(list of courses for a specific subject), got to "Menu -> Subject -> Register for subject", here Search for the subjects you want "recommended to filter by "Recommended term" for faster results", click the subject to open it's dropdown menu, now the small window should display the Subject name, the number of it's courses, and the options to download the course list(for schedule planning) and the student list(for student schedule searching). The course info downloading doesn't send any requests, it parses the info from the subject you opened(if you open another subject, you can't download the previous one by closing and opening it again, you have to reload the page). As for the Student list, it sends one request per course, because of this, there is a request speed limit set, so that it doesn't look like a DOS attack downloading 10+ or 100+ files at once. It is recommended to set the download location of the browser to a specific folder temporarily if you do this in a large quantity.
-<br><img src="src/script.png" alt="Script Screenshot" width="400">
+> Currently answer is still awaited from the official Neptun Developer team about the legal use of this script, so until then it is not released to the public as advised by University Neptun Administrators.
+
+### Step 1: Getting Neptun Data (Without the Script)
+
+#### A: Schedule data
+Go into the data page of the subject(s) you want to add, go to course list, click the three dots, export, export full list, name the export to the name of the subject.
+
+#### B: Student data
+Go into the data page of the subject(s) you want to add, go to course list, then go into the course(s) you want to get student list for(you have to be registered for the subject to see it), student list, click the three dots, export, export full list, name the export to the name of the course.
 
 ### Step 2: Importing Neptun Data (In the "Exports" Folder)
-To use any of the core functions (Teacher Search, Student Search, Schedule Planner), you need to place your exported Excel files from Neptun into the correct folders. Downloading these files are to be done by the users themselves, however I'm working on a method to make this process easier.
+To use any of the core functions (Teacher Search, Student Search, Schedule Planner), you need to place your exported Excel files from Neptun into the correct folders. Downloading these files are to be done by the users themselves currently, however if the script gets approved, the downloading gets much easier. For the Schedule function only a few downloads/exports are needed(1 per subject)
 
 ## 📋 Instructions
 
