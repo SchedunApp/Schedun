@@ -1,4 +1,4 @@
 {
-  "display_message": true,
-  "message": "There is currently a bug in the schedule planner function, for some reason it ignores the practical or theoretical classes randomly from the subjects, still looking into it."
+  "display_message": false,
+  "message": "The bug has been fixed in v1.3.4"
 }
