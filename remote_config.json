@@ -1,5 +1,5 @@
 {
-  "min_supported_version": "v1.3.2",
+  "min_supported_version": "v1.3.4",
   "locked_versions": [],
   "lock_message": "This version of Schedun is no longer supported or has been locked for security reasons. Please download the latest version from GitHub."
 }
