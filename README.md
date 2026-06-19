@@ -93,13 +93,15 @@ Right side(advanced filters):
 * **Individual daily filter:** A feature that allows users to set for each day their earliest and latest start.
 * **Custom events planner:** A feature that allows you to account for weekly events that will definitely happen at a specific time. For example going to the gym.
 * **Quick load filter:** A button next to each possible variation, that allows users to add a result to the filter as selected courses.
-* **Self updating function:** Instead of manually downloading new update, it can just install the new update by itself.
-* **Installer:** A better looking installer to add(and remove) the app properly to/from the application list, not just a runnable exe on the computer somewhere. Also sets up the necessary folder structure. **For now this function is not in focus, as everything works just fine without this too.**
+* **Better file handling:** Probably should add something like custom folder option for the files, or a button to open the folder, now that it's a system app, not just a single exe.
+
 ### Completed
 * **Schedule optimalization button:** A button that at the cost of a much slower runtime, plans a schedule with the smallest possible breaks between classes. ✅
 * **Excel download helper software:** A software that speeds up the process of downloading the excel files. Process most likely cannot be fully automated due to the risk of it being against university rules. ✅
 * **Lunch Break:** The option to implement a 20-30 minute long lunch break between classes. ✅
 * **Better responses:** Proper, detailed explanation when Schedule planning doesn't find a working schedule. ✅
+* **Installer:** A better looking installer to add(and remove) the app properly to/from the application list, not just a runnable exe on the computer somewhere. Also sets up the necessary folder structure. ✅
+* **Self updating function:** Instead of manually downloading new update, it can just install the new update by itself. ✅
 
 ## 🌐 Contact Information
 If you have any issues with the app, any questions or suggestions, feel free to contact us at: schedunapp@gmail.com
