@@ -1,7 +1,5 @@
 # Schedun
 The official repository for the Schedun app.
-> [!CAUTION]
-> **The software currently has an issue with generating a proper schedule after a recent update in Neptun's systems. The reason is currently unknown, this will be fixed after the exam period**
 
 
 ## 📅 Semester
