@@ -86,7 +86,7 @@ Right side(advanced filters):
 
 ## 🎯 Future plans, ideas(none of these ideas are guaranteed to be implemented)
 ### Planned
-* **Phone version for the Search app:** An iPhone version is currently under development, it's close to being presentable. Too many issues arose with Android so far, not gonna be developed there in the near future.
+* **Phone version for the Search app:** An iPhone version is currently under development, the basic student/teacher search function is working. Too many issues arose with Android so far, not gonna be developed in the near future.
 * **Favorited:** A function to add specific names to the favorites, able to access their schedules fast. **This function is still not fully planned out.**
 * **External University Friends:** Might add on demand, allows users to add the schedules of their friends from other universities specificly. **This function is still not fully planned out.**
 * **Common classes:** Allows users to search for and select multiple people, and check what classes they attend together.
