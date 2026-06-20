@@ -1,13 +1,13 @@
 # Schedun
 The official repository for the Schedun app.
-
+> [!WARNING]
+> The software has currently only been tested on ELTE and ÓE, it should work for BME too, as it has been reviewed, however it is uncertain for any other universities(theoretically, it should work, but some universities use different names for the same functions, causing the program not to recognize it). So if you are from any other university, and encounter any issues, please make sure to contact us, so that we can fix the issue as soon as possible.
 
 ## 📅 Semester
 Until: 2026-12-14
 
 ## 🛠️ Functions
-> [!WARNING]
-> The software has currently only been tested on ELTE and ÓE, it should work for BME too, as it has been reviewed, however it is uncertain for any other universities(theoretically, it should work, but some universities use different names for the same functions, causing the program not to recognize it). So if you are from any other university, and encounter any issues, please make sure to contact us, so that we can fix the issue as soon as possible.
+
 * **Schedule planning:** The main and best function of this software is that it can create many separate schedules based on the subjects you pick, you can filter based on specific courses only(recommended, since many courses are only for specific students, like exam courses). You can also select the maximum amount of days you want to attend, the start and finishing time of every day, the number of results, you can add lunch break and set the search to find the most optimal schedule.
 * **Teacher/Student Search:** This function allows the user to search for other students in the university, and see their schedule. This only works if the student list excel files are downloaded for each course that the other student is in. Recommended usage is downloading all courses for the necessary classes in the semester. These need to be downloaded one by one for each course under the classes. Working on a method to speed this process up.
 <br><img src="src/search.png" alt="Search Function Screenshot" width="400"> <img src="src/schedule.png" alt="Schedule Function Screenshot" width="400">
