@@ -1,5 +1,6 @@
 # Schedun
-The official repository for the Schedun app.
+The official repository for the Schedun app. 
+Here is the license payment link if you don't like to read: [**Payment link**](https://buy.stripe.com/00w14h80Y6i32ikbr25Rm00)
 > [!WARNING]
 > The software has currently only been tested on ELTE and ÓE, it should work for BME too, as it has been reviewed, however it is uncertain for any other universities(theoretically, it should work, but some universities use different names for the same functions, causing the program not to recognize it). So if you are from any other university, and encounter any issues, please make sure to contact us, so that we can fix the issue as soon as possible.
 
