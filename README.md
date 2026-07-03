@@ -102,6 +102,7 @@ Right side(advanced filters):
 * **Better file handling:** New button to open folder. Reworked folder structure. ✅Added in version v1.4.0
 * **Quick load filter:** A button next to each possible variation, that allows users to add a result to the filter as selected courses. ✅Added in version v1.4.0
 * **Individual daily filter:** A feature that allows users to set for each day their earliest and latest start. ✅Added in version v1.4.0
+* **Freemium version:** A free demo version with the very basic schedule generation ability. ✅Added in version v1.4.0
 
 ## 🌐 Contact Information
 If you have any issues with the app, any questions or suggestions, feel free to contact us at: schedunapp@gmail.com
