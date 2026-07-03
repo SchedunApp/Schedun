@@ -91,9 +91,7 @@ Right side(advanced filters):
 * **Favorited:** A function to add specific names to the favorites, able to access their schedules fast. **This function is still not fully planned out.**
 * **External University Friends:** Might add on demand, allows users to add the schedules of their friends from other universities specificly. **This function is still not fully planned out.**
 * **Common classes:** Allows users to search for and select multiple people, and check what classes they attend together.
-* **Individual daily filter:** A feature that allows users to set for each day their earliest and latest start.
 * **Custom events planner:** A feature that allows you to account for weekly events that will definitely happen at a specific time. For example going to the gym.
-* **Quick load filter:** A button next to each possible variation, that allows users to add a result to the filter as selected courses.
 
 ### Completed
 * **Schedule optimalization button:** A button that at the cost of a much slower runtime, plans a schedule with the smallest possible breaks between classes. ✅Added in version v1.2.0
@@ -102,6 +100,8 @@ Right side(advanced filters):
 * **Installer:** A better looking installer to add(and remove) the app properly to/from the application list, not just a runnable exe on the computer somewhere. Also sets up the necessary folder structure. ✅Added in version v1.3.4
 * **Self updating function:** Instead of manually downloading new update, it can just install the new update by itself. ✅Added in version v1.3.4
 * **Better file handling:** New button to open folder. Reworked folder structure. ✅Added in version v1.4.0
+* **Quick load filter:** A button next to each possible variation, that allows users to add a result to the filter as selected courses. ✅Added in version v1.4.0
+* **Individual daily filter:** A feature that allows users to set for each day their earliest and latest start. ✅Added in version v1.4.0
 
 ## 🌐 Contact Information
 If you have any issues with the app, any questions or suggestions, feel free to contact us at: schedunapp@gmail.com
