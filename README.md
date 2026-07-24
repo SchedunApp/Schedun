@@ -2,7 +2,7 @@
 The official repository for the Schedun app. 
 Here is the license payment link if you don't like to read: [**Payment link**](https://buy.stripe.com/00w14h80Y6i32ikbr25Rm00)
 > [!WARNING]
-> The software has currently only been tested on ELTE and ÓE, it should work for BME too, as it has been reviewed, however it is uncertain for any other universities(theoretically, it should work, but some universities use different names for the same functions, causing the program not to recognize it). So if you are from any other university, and encounter any issues, please make sure to contact us, so that we can fix the issue as soon as possible.
+> The software has currently only been tested on BME, ELTE and ÓE. Since it's the same system, it should work everywhere, however there might be some minor differences that could cause issues. So if you are from any other university, and encounter any issues, please make sure to contact us, so that we can fix the issue as soon as possible. This software does not access the Neptun system directly!
 
 ## 📅 Semester
 Until: 2026-12-14
