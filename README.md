@@ -94,9 +94,9 @@ Right side(advanced filters):
 * **Custom events planner:** A feature that allows you to account for weekly events that will definitely happen at a specific time. For example going to the gym.
 
 ### Completed
+* **Lunch Break:** The option to implement a 20-30 minute long lunch break between classes. ✅Added in version v1.1.0
 * **Schedule optimalization button:** A button that at the cost of a much slower runtime, plans a schedule with the smallest possible breaks between classes. ✅Added in version v1.2.0
 * **Excel download helper software:** A software that speeds up the process of downloading the excel files. Process most likely cannot be fully automated due to the risk of it being against university rules. ✅Added on May 27th, AI-made, open-source, free script.
-* **Lunch Break:** The option to implement a 20-30 minute long lunch break between classes. ✅Added in version v1.1.0
 * **Installer:** A better looking installer to add(and remove) the app properly to/from the application list, not just a runnable exe on the computer somewhere. Also sets up the necessary folder structure. ✅Added in version v1.3.4
 * **Self updating function:** Instead of manually downloading new update, it can just install the new update by itself. ✅Added in version v1.3.4
 * **Better file handling:** New button to open folder. Reworked folder structure. ✅Added in version v1.4.0
