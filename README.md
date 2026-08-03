@@ -91,7 +91,6 @@ Right side(advanced filters):
 ## 🎯 Future plans, ideas(none of these ideas are guaranteed to be implemented)
 ### Planned
 * **Phone version for the Search app:** An iPhone version is currently under development, the basic student/teacher search function is working. Too many issues arose with Android so far, not gonna be developed in the near future. <br> Survey for App Store version: https://forms.gle/66gr7kkKQ3ZtjU9E6
-* **Favorited:** A function to add specific names to the favorites, able to access their schedules fast. **This function is still not fully planned out.**
 * **External University Friends:** Might add on demand, allows users to add the schedules of their friends from other universities specificly. **This function is still not fully planned out.**
 * **Common classes:** Allows users to search for and select multiple people, and check what classes they attend together.
 * **Custom events planner:** A feature that allows you to account for weekly events that will definitely happen at a specific time. For example going to the gym.
@@ -102,10 +101,11 @@ Right side(advanced filters):
 * **Excel download helper software:** A software that speeds up the process of downloading the excel files. Process most likely cannot be fully automated due to the risk of it being against university rules. ✅Added on May 27th, AI-made, open-source, free script.
 * **Installer:** A better looking installer to add(and remove) the app properly to/from the application list, not just a runnable exe on the computer somewhere. Also sets up the necessary folder structure. ✅Added in version v1.3.4
 * **Self updating function:** Instead of manually downloading new update, it can just install the new update by itself. ✅Added in version v1.3.4
-* **Better file handling:** New button to open folder. Reworked folder structure. ✅Added in version v1.4.0
-* **Quick load filter:** A button next to each possible variation, that allows users to add a result to the filter as selected courses. ✅Added in version v1.4.0
-* **Individual daily filter:** A feature that allows users to set for each day their earliest and latest start. ✅Added in version v1.4.0
-* **Freemium version:** A free demo version with the very basic schedule generation ability. ✅Added in version v1.4.0
+* **Better file handling:** New button to open folder. Reworked folder structure. ✅Will be added in version v2.0.0
+* **Quick load filter:** A button next to each possible variation, that allows users to add a result to the filter as selected courses. ✅Will be added in version v2.0.0
+* **Individual daily filter:** A feature that allows users to set for each day their earliest and latest start. ✅Will be added in version v2.0.0
+* **Freemium version:** A free demo version with the very basic schedule generation ability. ✅Will be added in version v2.0.0
+* **Favorited:** A function to add specific names to the favorites, able to access their schedules fast. ✅Will be added in version v2.0.0
 
 ## 🌐 Contact Information
 If you have any issues with the app, any questions or suggestions, feel free to contact us at: schedunapp@gmail.com
