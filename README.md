@@ -92,7 +92,6 @@ Right side(advanced filters):
 ### Planned
 * **Phone version for the Search app:** An iPhone version is currently under development, the basic student/teacher search function is working. Too many issues arose with Android so far, not gonna be developed in the near future. <br> Survey for App Store version: https://forms.gle/66gr7kkKQ3ZtjU9E6
 * **External University Friends:** Might add on demand, allows users to add the schedules of their friends from other universities specificly. **This function is still not fully planned out.**
-* **Common classes:** Allows users to compare their own classes with others.
 * **Custom events planner:** A feature that allows you to account for weekly events that will definitely happen at a specific time. For example going to the gym.
 
 ### Completed
@@ -106,6 +105,7 @@ Right side(advanced filters):
 * **Individual daily filter:** A feature that allows users to set for each day their earliest and latest start. ✅Will be added in version v2.0.0
 * **Freemium version:** A free demo version with the very basic schedule generation ability. ✅Will be added in version v2.0.0
 * **Favorited:** A function to add specific names to the favorites, able to access their schedules fast. ✅Will be added in version v2.0.0
+* **Common classes:** Allows users to compare their own classes with others. ✅Will be added in version v2.0.0
 
 ## 🌐 Contact Information
 If you have any issues with the app, any questions or suggestions, feel free to contact us at: schedunapp@gmail.com
