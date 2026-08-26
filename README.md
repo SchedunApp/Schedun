@@ -1,6 +1,6 @@
 # Schedun
-The official repository for the Schedun app. 
-Here is the license payment link if you don't like to read: [**Payment link**](https://buy.stripe.com/00w14h80Y6i32ikbr25Rm00)
+The official repository for the Schedun app. [Website link](https://schedun.app)
+<br>Here is the license payment link if you don't like to read: [**Payment link**](https://buy.stripe.com/00w14h80Y6i32ikbr25Rm00)
 > [!IMPORTANT]
 > By downloading, installing, or using Schedun, you agree to be bound by our [Terms of Service](./TERMS_OF_SERVICE.md) and [Privacy Policy](./PRIVACY_POLICY.md).
 
