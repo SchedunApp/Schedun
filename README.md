@@ -15,6 +15,8 @@ Until: 2026-12-14
 * **Schedule planning:** The main and best function of this software is that it can create many separate schedules based on the subjects you pick, you can filter based on specific courses only(recommended, since many courses are only for specific students, like exam courses). You can also select the maximum amount of days you want to attend, the start and finishing time of every day, the number of results, you can add lunch break and set the search to find the most optimal schedule.
 * **Teacher/Student Search:** This function allows the user to search for other students in the university, and see their schedule. This only works if the student list excel files are downloaded for each course that the other student is in. Recommended usage is downloading all courses for the necessary classes in the semester. These need to be downloaded one by one for each course under the classes. Working on a method to speed this process up.
 <br><img src="src/search.png" alt="Search Function Screenshot" width="400"> <img src="src/schedule.png" alt="Schedule Function Screenshot" width="400">
+* **Course Exchange:** Allows users to put up their wanted and offered courses during registration period, increasing their chances of trading courses.
+* **Calendar:** Experimental feature, hardly any unique features, allows users to add custom events to calendar, and import Neptun calendar API(personal, or friend's, even from other universities)
 
 ## 💵 Pricing
 The license key for the software costs 2.500 HUF(VAT 27% not included) for a semester, which is less than a 500 HUF a month(prices might change over time). The semester for this software starts at the beginning of one exam period, and ends at the start of the next one, regardless of buying date. [CHECK SEMESTER](https://github.com/SchedunApp/Schedun#-semester)<br>
@@ -98,14 +100,14 @@ Right side(advanced filters):
 * **Excel download helper software:** A software that speeds up the process of downloading the excel files. Process most likely cannot be fully automated due to the risk of it being against university rules. ✅Added on May 27th, AI-made, open-source, free script.
 * **Installer:** A better looking installer to add(and remove) the app properly to/from the application list, not just a runnable exe on the computer somewhere. Also sets up the necessary folder structure. ✅Added in version v1.3.4
 * **Self updating function:** Instead of manually downloading new update, it can just install the new update by itself. ✅Added in version v1.3.4
-* **Better file handling:** New button to open folder. Reworked folder structure. ✅Will be added in version v2.0.0
-* **Quick load filter:** A button next to each possible variation, that allows users to add a result to the filter as selected courses. ✅Will be added in version v2.0.0
-* **Individual daily filter:** A feature that allows users to set for each day their earliest and latest start. ✅Will be added in version v2.0.0
-* **Freemium version:** A free demo version with the very basic schedule generation ability. ✅Will be added in version v2.0.0
-* **Favorited:** A function to add specific names to the favorites, able to access their schedules fast. ✅Will be added in version v2.0.0
-* **Common classes:** Allows users to compare their own classes with others. ✅Will be added in version v2.0.0
-* **External University Friends:** Might add on demand, allows users to add the schedules of their friends from other universities specificly. ✅Will be added in version v2.0.0
-* **Custom events planner:** A feature that allows you to account for weekly events that will definitely happen at a specific time. For example going to the gym. ✅Will be added in version v2.0.0
+* **Better file handling:** New button to open folder. Reworked folder structure. ✅Added in version v2.0.0
+* **Quick load filter:** A button next to each possible variation, that allows users to add a result to the filter as selected courses. ✅Added in version v2.0.0
+* **Individual daily filter:** A feature that allows users to set for each day their earliest and latest start. ✅Added in version v2.0.0
+* **Freemium version:** A free demo version with the very basic schedule generation ability. ✅Added in version v2.0.0
+* **Favorited:** A function to add specific names to the favorites, able to access their schedules fast. ✅Added in version v2.0.0
+* **Common classes:** Allows users to compare their own classes with others. ✅Added in version v2.0.0
+* **External University Friends:** Might add on demand, allows users to add the schedules of their friends from other universities specificly. ✅Added in version v2.0.0
+* **Custom events planner:** A feature that allows you to account for weekly events that will definitely happen at a specific time. For example going to the gym. ✅Added in version v2.0.0
 * **Phone app:** App is mostly developed, currently contains Search and Calendar functions, widgets, notifications(reminders) currently unable to release due to hosting prices. <br> Survey for App Store version: https://forms.gle/66gr7kkKQ3ZtjU9E6 ✅Working version created, most likely will have more updates, currently not released
 
 ## 🌐 Contact Information
